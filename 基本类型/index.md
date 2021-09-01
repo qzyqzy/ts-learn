@@ -1,0 +1,12 @@
+- 布尔值
+- 数值
+- 字符串
+- 数组
+- 元祖
+- 枚举值
+- any
+- void
+- null 、 undefined
+- never
+- object
+- 类型断言
